@@ -1,0 +1,169 @@
+body{
+    padding: 30px;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+}
+.main1 div{
+    /* margin: 10px; */
+}
+
+.card1{
+    width: 50%;
+    height: 170px;
+    /* display: inline; */
+}
+.sale{
+    display: flex;
+}
+.sale div{
+    margin: 10px;
+}
+.svg{
+    padding: 10px;
+    background-color: rgb(181, 184, 255);
+    border-radius: 10px;
+}
+.sales{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.sales p{
+    font-size: small;
+}
+.card2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 170px;
+    
+}
+
+.card2 img{
+    width: 110px;
+    height: 148px;
+    /* margin-top: auto; */
+    align-self: flex-end;
+    
+}
+.img{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 15px;
+}
+.card21{
+    padding: 20px;
+}
+.img2{
+    width: 100px;
+}
+.citem11{
+    display: flex;
+    justify-content: space-between;
+}
+.slide{
+    width: 50%;
+    height: 230px;
+    padding: 15px;
+    background-color: rgb(102, 108, 255);
+    border-radius: 8px;
+
+}
+.citems{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+
+.caro1{
+    display: flex;
+    color: white;
+    padding-left: 10px;
+    justify-content: space-between;
+}
+.main2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.card4{
+
+    height: 230px;
+    padding: 20px;
+}
+.card41{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    
+}
+.card421{
+    display: flex;
+}
+.card42{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.card6{
+    /* margin-top: 20px; */
+    padding: 20px;
+}
+.main3{
+    display: flex;
+    /* padding: 20px; */
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.card7{
+    padding: 20px;
+}
+.svg2{
+    color: orange;
+    background-color: rgb(255, 232, 188);
+    padding: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+.svg4{
+    color: aqua;
+    background-color: rgb(211, 255, 255);
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+.btnn button{
+    width: 100px;
+    height: 100px;
+    background: none;
+    border: 3px dotted rgb(190, 190, 190);
+    border-radius: 10px;
+    margin: 10px;
+}
+.btnn img{
+    width: 60px;
+    height: 60px
+}
+th img{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+}
+table{
+   margin-top: 20px; 
+}
+#table2{
+    display: none;
+}
+#table3{
+    display: none;
+}
